@@ -1,5 +1,3 @@
-# Smart-Tailorign-System
-Perfect! Here's an updated **README.md** including placeholders for screenshots so it looks more professional on GitHub. You can replace the placeholder paths with your actual images later.
 
 ---
 
